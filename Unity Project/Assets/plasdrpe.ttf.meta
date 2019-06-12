@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 73ec032e0d37ac545906521ebdd0c788
+timeCreated: 1517131138
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Plasma Drip [Empty] (BRK)
+  fontNames:
+  - Plasma Drip [Empty] (BRK)
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
